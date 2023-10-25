@@ -36,7 +36,7 @@ Para visualizar a página de login, siga as seguintes etapas:
 1. Clone este repositório para o seu ambiente local:
 
    ```bash
-   git clone https://github.com/seu-usuario/projeto-exemplo.git
+   git clone https://github.com/Igaruus/Login.git
    ```
 
 2. Abra o arquivo `index.html` em um navegador da web para ver a página de login em ação.
@@ -55,4 +55,3 @@ Este projeto é distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LI
 
 ---
 
-Lembre-se de substituir `seu-usuario` pelo nome de usuário do seu repositório no GitHub e personalizar as informações de acordo com o seu projeto específico. Este é apenas um exemplo de como documentar um projeto de página de login com HTML e CSS em um arquivo `README.md`.
